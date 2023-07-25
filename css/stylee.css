@@ -1,0 +1,71 @@
+
+body{
+	margin: 0 auto;
+	background-image:url(1st.jpg);
+	background-repeat: no-repeat;
+	background-size: 100% 720px;
+}
+	.container{
+		width: 350px;
+		height: 400px;
+		text-align: center;
+		
+		background-color:#0faae8;
+		border-radius: 20px;
+		margin: 0 auto;
+		margin-top: -10px;
+		
+	}
+	.container img{
+		width: 180px;
+		height: 180px;
+		margin-top: -80px;
+		margin-bottom: 30px;
+		
+		
+	} 
+	input[type="text"],input[type="Password"] {
+		height: 30px;
+		width: 180px;
+		font-size: 12px;
+		margin-bottom: 9px;
+		background-color: #fff;
+		padding-left: 30px;
+	}
+	.form-input::before{
+		content:"\f007";
+		color: #34495e;
+		position: absolute;
+		font-family: "fontawesome";
+		font-size:30px;
+		
+	}
+	.form-input:nth-child(4)::before{
+		content: "\f023";
+	}
+		
+	
+	
+	
+	.btn-login{
+		padding: 5px 25px;
+		
+		color: #ff;
+		
+		border: none;
+		
+	}
+		.btn-register{
+		padding: 5px 25px;
+		
+		color: #ff;
+		
+		border: none;
+		
+	
+		}	
+			.header{
+		text-align: center;
+		margin-top: -80px;
+		
+	}

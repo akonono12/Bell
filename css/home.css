@@ -1,0 +1,26 @@
+
+<html>
+<head>
+
+<title></title>
+<link rel="stylesheet" type="text/css" href="homestyle.css"></link>
+<link rel="stylesheet" type="text/css" href="font-awesome.css">
+</head>
+<body>
+
+<div  class="container">
+<img src="images/logo.png">
+<form>
+<div class ="form-input">
+<input type"link" name="Student">
+</div>
+<div class ="form-input">
+<input type"link" name="Teacher">
+</div>
+<div class ="form-input">
+<input type"link" name="Administrator">
+</div>
+</form>
+</div>
+</body>
+</html>
